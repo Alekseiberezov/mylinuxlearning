@@ -13,3 +13,15 @@ typora-root-url: ./jichu
 演示如下：
 
 ![](/touch.png)
+
+## cat
+
+猫猫命令（不是）
+
+就是查看文件里的内容的
+
+![](/cat.png)
+
+## more
+
+翻页查看内容
